@@ -333,7 +333,7 @@ nav.links a:hover {
     linear-gradient(115deg, rgba(9, 11, 15, .95) 0%, rgba(11, 14, 20, .9) 42%, rgba(14, 20, 32, .7) 100%),
     radial-gradient(900px 520px at 84% 14%, rgba(217, 185, 104, .18), transparent 60%),
     radial-gradient(760px 520px at 4% 106%, rgba(95, 200, 136, .14), transparent 60%),
-    url('http://alephcomex.com.br/imagens/portfolio-6.jpg') center right/cover no-repeat, var(--dark)
+    url('https://images.unsplash.com/photo-1700777685830-f501e67260e6?w=1600&q=80&auto=format&fit=crop') center right/cover no-repeat, var(--dark)
 }
 
 .hero-net {
