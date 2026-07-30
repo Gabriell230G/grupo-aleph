@@ -324,7 +324,7 @@ nav.links a:hover {
   background:
     linear-gradient(100deg, rgba(6, 13, 26, .96) 0%, rgba(8, 17, 32, .9) 40%, rgba(10, 22, 42, .6) 100%),
     radial-gradient(900px 600px at 12% 100%, rgba(55, 211, 196, .14), transparent 60%),
-    url('http://alephcomex.com.br/imagens/portfolio-6.jpg') center right/cover no-repeat,
+    url('https://images.unsplash.com/photo-1700777685830-f501e67260e6?w=1600&q=80&auto=format&fit=crop') center right/cover no-repeat,
     var(--night)
 }
 
@@ -877,7 +877,7 @@ section {
 
 /* GROUP band */
 .group-band {
-  background: linear-gradient(120deg, rgba(28, 68, 112, .93), rgba(15, 35, 64, .9)), url('http://alephcomex.com.br/imagens/fun1.jpg') center/cover;
+  background: linear-gradient(120deg, rgba(28, 68, 112, .93), rgba(15, 35, 64, .9)), url('https://images.unsplash.com/photo-1678182451047-196f22a4143e?w=1600&q=80&auto=format&fit=crop') center/cover;
   border-radius: 24px;
   padding: 52px;
   position: relative;
