@@ -60,9 +60,9 @@ Cada site é independente e traz sua própria pasta `css/` e `js/`, com o códig
 
 ## 🔗 Acesse os Sites
 
-➽ **Grupo Aleph** → https://gabriell230g.github.io/grupo-aleph/
-➽ **Aleph Comex** → https://gabriell230g.github.io/grupo-aleph/aleph_comex_site/
-➽ **AlephLog** → https://gabriell230g.github.io/grupo-aleph/aleph_log_site/
+➽ **Grupo Aleph** → https://gabriell230g.github.io/grupo-aleph/ <br>
+➽ **Aleph Comex** → https://gabriell230g.github.io/grupo-aleph/aleph_comex_site/ <br>
+➽ **AlephLog** → https://gabriell230g.github.io/grupo-aleph/aleph_log_site/ <br>
 ➽ **Aleph Agro** → https://gabriell230g.github.io/grupo-aleph/aleph_agro_site/
 
 &nbsp;
