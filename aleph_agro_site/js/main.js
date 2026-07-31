@@ -402,7 +402,7 @@ const CROPS = {
   },
   'Batata': {
     foto: 'https://images.unsplash.com/photo-1764587492501-bf8b61c09792?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1516822277566-bb38424a2b77?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_batata.jpg',
     nut: [
       ['Potássio', 47],
       ['Nitrogênio', 23],
