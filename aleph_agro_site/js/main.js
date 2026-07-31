@@ -374,7 +374,7 @@ function L() {
 const CROPS = {
   'Alface': {
     foto: 'https://images.unsplash.com/photo-1713082063917-59863809f007?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_alface.jpg',
     nut: [
       ['Potássio', 39],
       ['Cálcio', 32],
@@ -387,7 +387,7 @@ const CROPS = {
   },
   'Banana': {
     foto: 'https://images.unsplash.com/photo-1620036924477-c3d6e9ce36fc?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_banana.jpg',
     nut: [
       ['Potássio', 55],
       ['Nitrogênio', 31],
@@ -417,7 +417,7 @@ const CROPS = {
   },
   'Café': {
     foto: 'https://images.unsplash.com/photo-1762686852371-763b689910b2?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_cafe.jpg',
     nut: [
       ['Nitrogênio', 45],
       ['Potássio', 41],
@@ -430,7 +430,7 @@ const CROPS = {
   },
   'Cebola': {
     foto: 'https://images.unsplash.com/photo-1687365301009-af603af2a8a9?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_cebola.jpg',
     nut: [
       ['Potássio', 44],
       ['Nitrogênio', 31],
@@ -444,7 +444,7 @@ const CROPS = {
   },
   'Cenoura': {
     foto: 'https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1516822277566-bb38424a2b77?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_cenoura.jpg',
     nut: [
       ['Potássio', 54],
       ['Nitrogênio', 27],
@@ -457,7 +457,7 @@ const CROPS = {
   },
   'Feijão': {
     foto: 'https://images.unsplash.com/photo-1574963835594-61eede2070dc?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_feijao.jpg',
     nut: [
       ['Nitrogênio', 57],
       ['Potássio', 28],
@@ -471,7 +471,7 @@ const CROPS = {
   },
   'Manga': {
     foto: 'https://images.unsplash.com/photo-1732472581875-89ff83f18439?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_manga.jpg',
     nut: [
       ['Potássio', 26],
       ['Cálcio', 26],
@@ -486,7 +486,7 @@ const CROPS = {
   },
   'Milho': {
     foto: 'https://images.unsplash.com/photo-1565522734001-f00e62ec8424?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1516822277566-bb38424a2b77?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_milho.jpg',
     nut: [
       ['Nitrogênio', 35],
       ['Potássio', 29],
@@ -500,7 +500,7 @@ const CROPS = {
   },
   'Morango': {
     foto: 'https://images.unsplash.com/photo-1587393855524-087f83d95bc9?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_morango.jpg',
     nut: [
       ['Nitrogênio', 27],
       ['Potássio', 23],
@@ -514,7 +514,7 @@ const CROPS = {
   },
   'Pimenta': {
     foto: 'https://images.unsplash.com/photo-1761669411746-8f401c29e9a6?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_pimenta.jpg',
     nut: [
       ['Potássio', 47],
       ['Nitrogênio', 32],
@@ -527,7 +527,7 @@ const CROPS = {
   },
   'Soja': {
     foto: 'https://images.unsplash.com/photo-1600747476236-76579658b1b1?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1516822277566-bb38424a2b77?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_soja.jpg',
     nut: [
       ['Nitrogênio', 65],
       ['Potássio', 20],
@@ -541,7 +541,7 @@ const CROPS = {
   },
   'Tomate': {
     foto: 'https://images.unsplash.com/photo-1471194402529-8e0f5a675de6?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_tomate.jpg',
     nut: [
       ['Potássio', 38],
       ['Nitrogênio', 24],
@@ -554,7 +554,7 @@ const CROPS = {
   },
   'Uva': {
     foto: 'https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=1600&q=80&auto=format&fit=crop',
-    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
+    prog: 'img/prog_uva.jpg',
     nut: [
       ['Potássio', 31],
       ['Cálcio', 25],
@@ -1114,17 +1114,21 @@ const LVL = {
 };
 
 function donut(nut) {
-  const r = 70,
-    C = 2 * Math.PI * r;
+  const r = 72,
+    C = 2 * Math.PI * r,
+    sw = 18,
+    gap = 5;
   const tot = nut.reduce((s, x) => s + x[1], 0) || 100;
   let off = 0;
+  const track = `<circle cx="95" cy="95" r="${r}" fill="none" stroke="rgba(20,50,30,.07)" stroke-width="${sw}"></circle>`;
   const segs = nut.map(n => {
     const len = C * n[1] / tot;
-    const s = `<circle cx="95" cy="95" r="${r}" fill="none" stroke="${NCOL[n[0]]||'#7a8a7f'}" stroke-width="26" stroke-dasharray="${len} ${C-len}" stroke-dashoffset="${-off}"></circle>`;
+    const draw = Math.max(len - gap, 2);
+    const s = `<circle class="seg" cx="95" cy="95" r="${r}" fill="none" stroke="${NCOL[n[0]]||'#7a8a7f'}" stroke-width="${sw}" stroke-dasharray="${draw} ${C-draw}" stroke-dashoffset="${-off}"></circle>`;
     off += len;
     return s;
   }).join('');
-  return `<div class="donut"><svg viewBox="0 0 190 190" width="190" height="190">${segs}</svg><div class="mid"><b>NPK+</b><span>${MT[L()].donut}</span></div></div>`;
+  return `<div class="donut"><svg viewBox="0 0 190 190" width="190" height="190">${track}${segs}</svg><div class="mid"><b>NPK+</b><span>${MT[L()].donut}</span></div></div>`;
 }
 
 function legend(nut, notes) {
