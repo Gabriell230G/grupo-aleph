@@ -373,8 +373,8 @@ function L() {
 
 const CROPS = {
   'Alface': {
-    foto: 'arquivos/c5.jpg',
-    prog: 'arquivos/{9C50B2B3-B247-4285-B506-FD9E1D9E0788}_c5_1.jpg',
+    foto: 'https://images.unsplash.com/photo-1713082063917-59863809f007?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 39],
       ['Cálcio', 32],
@@ -386,8 +386,8 @@ const CROPS = {
     prod: ['BloomFruit', 'Maspic', 'Renovasoil', 'Super K', 'Super Mix', 'SuperAmin']
   },
   'Banana': {
-    foto: 'arquivos/c10.jpg',
-    prog: 'arquivos/{70B84399-25DF-4358-A9BF-6A18C36A5CF5}_c10_1.jpg',
+    foto: 'https://images.unsplash.com/photo-1620036924477-c3d6e9ce36fc?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 55],
       ['Nitrogênio', 31],
@@ -401,8 +401,8 @@ const CROPS = {
     prod: ['Kualité', 'Maspic', 'Super Mix', 'SuperAmin']
   },
   'Batata': {
-    foto: 'arquivos/c6.jpg',
-    prog: 'arquivos/{B1B4DEBE-CC5B-4614-9B0B-45DF30F112DE}_c6_1.jpg',
+    foto: 'https://images.unsplash.com/photo-1764587492501-bf8b61c09792?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1516822277566-bb38424a2b77?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 47],
       ['Nitrogênio', 23],
@@ -416,8 +416,8 @@ const CROPS = {
     prod: ['BestCopper', 'Maspic', 'Renovasoil', 'Super Mix', 'Super Phos', 'SuperAmin']
   },
   'Café': {
-    foto: 'arquivos/c18.jpg',
-    prog: 'arquivos/{2DBFF317-5A25-4C25-91C0-FDF0770A80D6}_vvvv.jpg',
+    foto: 'https://images.unsplash.com/photo-1762686852371-763b689910b2?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Nitrogênio', 45],
       ['Potássio', 41],
@@ -429,8 +429,8 @@ const CROPS = {
     prod: ['BloomFruit', 'Cuaje', 'SuperAmin']
   },
   'Cebola': {
-    foto: 'arquivos/c2.jpg',
-    prog: 'arquivos/{3298A142-63B3-47BB-9CF3-9FDF5453DA4F}_c2_1.jpg',
+    foto: 'https://images.unsplash.com/photo-1687365301009-af603af2a8a9?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 44],
       ['Nitrogênio', 31],
@@ -443,8 +443,8 @@ const CROPS = {
     prod: ['BestCopper', 'BloomFruit', 'Maspic', 'Super K', 'SuperAmin', 'Ziman']
   },
   'Cenoura': {
-    foto: 'arquivos/c4.jpg',
-    prog: 'arquivos/{2BD2015F-6FDA-46F6-986C-E92B719FF0D9}_c4_1.jpg',
+    foto: 'https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1516822277566-bb38424a2b77?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 54],
       ['Nitrogênio', 27],
@@ -456,8 +456,8 @@ const CROPS = {
     prod: ['BloomFruit', 'Maspic', 'Renovasoil', 'Super K', 'SuperAmin']
   },
   'Feijão': {
-    foto: 'arquivos/c20.jpg',
-    prog: 'arquivos/{DA03448A-A238-4897-B784-FA03F7D779A2}_tttt.jpg',
+    foto: 'https://images.unsplash.com/photo-1574963835594-61eede2070dc?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Nitrogênio', 57],
       ['Potássio', 28],
@@ -470,8 +470,8 @@ const CROPS = {
     prod: ['Cuaje', 'Maspic', 'Nutriboost', 'Super K', 'Super Mix', 'SuperAmin']
   },
   'Manga': {
-    foto: 'arquivos/c9.jpg',
-    prog: 'arquivos/{A127289C-BC50-4FE3-A6CF-A3997E681137}_zzzz.jpg',
+    foto: 'https://images.unsplash.com/photo-1732472581875-89ff83f18439?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 26],
       ['Cálcio', 26],
@@ -485,8 +485,8 @@ const CROPS = {
     prod: ['BloomFruit', 'Filter Max', 'Maspic']
   },
   'Milho': {
-    foto: 'arquivos/c17.jpg',
-    prog: 'arquivos/{153C6440-430E-4290-9F6A-C206BC99499F}_aaa.jpg',
+    foto: 'https://images.unsplash.com/photo-1565522734001-f00e62ec8424?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1516822277566-bb38424a2b77?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Nitrogênio', 35],
       ['Potássio', 29],
@@ -499,8 +499,8 @@ const CROPS = {
     prod: ['AmoSulfate', 'Nutriboost', 'Ziman']
   },
   'Morango': {
-    foto: 'arquivos/c8.jpg',
-    prog: 'arquivos/{3ABA2106-257E-4E16-AEAC-052F35254E34}_c8_1.jpg',
+    foto: 'https://images.unsplash.com/photo-1587393855524-087f83d95bc9?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Nitrogênio', 27],
       ['Potássio', 23],
@@ -513,8 +513,8 @@ const CROPS = {
     ativadores: ['AlephAminol', 'BestCopper', 'Flor Xtend', 'Maspic']
   },
   'Pimenta': {
-    foto: 'arquivos/c14.jpg',
-    prog: 'arquivos/{72839684-4D7C-458B-A0B8-42CF427DB22D}_c14_1.jpg',
+    foto: 'https://images.unsplash.com/photo-1761669411746-8f401c29e9a6?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 47],
       ['Nitrogênio', 32],
@@ -526,8 +526,8 @@ const CROPS = {
     prod: ['Cuaje', 'Renovasoil', 'SuperAmin']
   },
   'Soja': {
-    foto: 'arquivos/c19.jpg',
-    prog: 'arquivos/{D10EE928-88D1-4CD9-B57F-8A4A859B3EA9}_A.jpg',
+    foto: 'https://images.unsplash.com/photo-1600747476236-76579658b1b1?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1516822277566-bb38424a2b77?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Nitrogênio', 65],
       ['Potássio', 20],
@@ -540,8 +540,8 @@ const CROPS = {
     prod: ['Cuaje', 'Maspic', 'Nutriboost', 'Super K', 'Super Mix', 'SuperAmin']
   },
   'Tomate': {
-    foto: 'arquivos/c3.jpg',
-    prog: 'arquivos/{F9B1330D-B37E-418D-B1B1-BA9EAE113667}_c3_1.jpg',
+    foto: 'https://images.unsplash.com/photo-1471194402529-8e0f5a675de6?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 38],
       ['Nitrogênio', 24],
@@ -553,8 +553,8 @@ const CROPS = {
     prod: ['BloomFruit', 'Cuaje', 'Maspic', 'Renovasoil', 'Super K', 'Super Mix', 'SuperAmin']
   },
   'Uva': {
-    foto: 'arquivos/c12.jpg',
-    prog: 'arquivos/{49E72F73-8BA6-4413-B5A2-9F42BDB371D9}_11.jpg',
+    foto: 'https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=1600&q=80&auto=format&fit=crop',
+    prog: 'https://images.unsplash.com/photo-1655929299728-93ee15ed7967?w=1600&q=80&auto=format&fit=crop',
     nut: [
       ['Potássio', 31],
       ['Cálcio', 25],
@@ -1145,12 +1145,12 @@ function openCrop(name) {
     var t = MT[l];
     window.__openC = name;
     window.__openP = null;
-    html = `<div class="m-hero mhero-photo" style="background-image:linear-gradient(150deg,rgba(18,58,36,.74),rgba(12,36,23,.92)),url('${AG}${d.foto}')"><span class="kick">${t.mck}</span><h3>${cn}</h3><p>${t.mci.replace('{n}',cn.toLowerCase())}</p></div>
+    html = `<div class="m-hero mhero-photo" style="background-image:linear-gradient(150deg,rgba(18,58,36,.74),rgba(12,36,23,.92)),url('${d.foto}')"><span class="kick">${t.mck}</span><h3>${cn}</h3><p>${t.mci.replace('{n}',cn.toLowerCase())}</p></div>
     <div class="m-body">
       <div class="m-sec"><h4><span class="bar"></span>${t.hext}</h4><p class="m-sub">${t.sext}</p>
         <div class="chart-row">${donut(d.nut)}${legend(d.nut,d.notes)}</div></div>
       <div class="m-sec"><h4><span class="bar"></span>${t.hprog}</h4><p class="m-sub">${t.sprog}</p>
-        <img class="prog-img" src="${AG}${d.prog}" alt="${t.palt.replace('{n}',cn)}" loading="lazy"></div>
+        <img class="prog-img" src="${d.prog}" alt="${t.palt.replace('{n}',cn)}" loading="lazy"></div>
       <div class="m-sec"><h4><span class="bar"></span>${t.hprod}</h4>
         <div class="chips">${d.prod.map(p=>`<span class="chip" data-product="${p}">${p}</span>`).join('')}</div></div>
       ${d.ativadores?`<div class="m-sec"><h4><span class="bar"></span>${t.hativ}</h4><div class="chips">${d.ativadores.map(p=>`<span class="chip" data-product="${p}">${p}</span>`).join('')}</div></div>`:''}
