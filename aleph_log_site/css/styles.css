@@ -877,7 +877,7 @@ section {
 
 /* GROUP band */
 .group-band {
-  background: linear-gradient(120deg, rgba(28, 68, 112, .93), rgba(15, 35, 64, .9)), url('https://images.unsplash.com/photo-1678182451047-196f22a4143e?w=1600&q=80&auto=format&fit=crop') center/cover;
+  background: linear-gradient(105deg, rgba(9, 19, 36, .97) 0%, rgba(12, 27, 50, .94) 45%, rgba(14, 34, 62, .86) 100%), radial-gradient(130% 150% at 88% 130%, rgba(90, 160, 255, .14), transparent 55%), url('https://images.unsplash.com/photo-1678182451047-196f22a4143e?w=1600&q=80&auto=format&fit=crop') center/cover; background-blend-mode: normal;
   border-radius: 24px;
   padding: 52px;
   position: relative;
