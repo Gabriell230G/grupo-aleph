@@ -53,7 +53,7 @@ document.getElementById('qform').addEventListener('submit', e => {
 // ITENS (produtos + serviços) com conteúdo real
 const ITEMS = {
   "cafe": {
-    "img": "imagens/portfolio-1.jpg",
+    "img": "https://images.unsplash.com/photo-1515694590185-73647ba02c10?w=1600&q=80&auto=format&fit=crop",
     "kick": {
       "pt": "Produto de exportação",
       "en": "Export product",
@@ -76,7 +76,7 @@ const ITEMS = {
     }
   },
   "pimenta": {
-    "img": "imagens/portfolio-2.jpg",
+    "img": "https://images.unsplash.com/photo-1649951806971-ad0e00408773?w=1600&q=80&auto=format&fit=crop",
     "kick": {
       "pt": "Produto de exportação",
       "en": "Export product",
@@ -99,7 +99,7 @@ const ITEMS = {
     }
   },
   "castanha": {
-    "img": "imagens/portfolio-5.jpg",
+    "img": "https://images.unsplash.com/photo-1614807618553-35332e4de00d?w=1600&q=80&auto=format&fit=crop",
     "kick": {
       "pt": "Produto de exportação",
       "en": "Export product",
@@ -122,7 +122,7 @@ const ITEMS = {
     }
   },
   "impexp": {
-    "img": "imagens/portfolio-6.jpg",
+    "img": "https://images.unsplash.com/photo-1700777685830-f501e67260e6?w=1600&q=80&auto=format&fit=crop",
     "kick": {
       "pt": "Serviço",
       "en": "Service",
@@ -145,7 +145,7 @@ const ITEMS = {
     }
   },
   "consultoria": {
-    "img": "imagens/fun2.jpg",
+    "img": "https://images.unsplash.com/photo-1606964212858-c215029db704?w=1600&q=80&auto=format&fit=crop",
     "kick": {
       "pt": "Serviço",
       "en": "Service",
@@ -168,7 +168,7 @@ const ITEMS = {
     }
   },
   "outsourcing": {
-    "img": "imagens/fun2.jpg",
+    "img": "https://images.unsplash.com/photo-1606964212858-c215029db704?w=1600&q=80&auto=format&fit=crop",
     "kick": {
       "pt": "Serviço",
       "en": "Service",
@@ -206,7 +206,7 @@ function openItem(k) {
   } [L];
   const facts = d.facts[L].map(f => `<li><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>${f}</li>`).join('');
   document.getElementById('modalBody').innerHTML = `
-    <div class="m-hero" style="background-image:url('${AC}${d.img}')"><div class="mh"><span class="kick">${d.kick[L]}</span><h3>${d.title[L]}</h3></div></div>
+    <div class="m-hero" style="background-image:url('${d.img}')"><div class="mh"><span class="kick">${d.kick[L]}</span><h3>${d.title[L]}</h3></div></div>
     <div class="m-body">${d.body[L]}<ul class="facts">${facts}</ul>
     <div class="m-cta"><a class="btn btn-gold" href="#contato" onclick="closeModal()">${CTA} <span class="arw">→</span></a></div></div>`;
   modal.classList.add('open');
